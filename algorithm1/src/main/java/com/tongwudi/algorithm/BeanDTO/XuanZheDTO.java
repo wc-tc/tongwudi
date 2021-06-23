@@ -5,6 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 
 @Data
-public class kuaiPaiDTO  implements Serializable {
+public class XuanZheDTO implements Serializable {
     Integer [] arr;
 }
